@@ -1,0 +1,45 @@
+ body {
+  margin: 0 auto;
+  background: #1DA1F2;
+  color: #fff;
+  font-family: 'Raleway', sans-serif;
+} 
+
+main {
+	height: 100vh;
+	header {
+		height: 33vh;
+		h1 {
+			margin: 40px 0;
+		}
+	}
+	.box {
+		height: 33vh;
+	}
+	.bottom {
+		height: 33vh;
+		button {
+			font-weight: bold;
+			width: 200px;
+			background: #1DA1F2;
+			border: 1px solid #fff;
+			border-radius: 3px;
+			padding: 10px;
+			margin: 10px;
+			color: #fff;
+			text-decoration: none;
+			transition: all .3s ease-in-out;
+			&:hover {
+				background: #fff;
+				color: #1DA1F2;
+				a {
+					color: #1DA1F2
+				}
+			}
+			a {
+				color: #fff;
+				text-decoration: none;
+			}
+		}
+	}
+}
