@@ -1,54 +1,19 @@
-body {
-  margin: 0 auto;
-  background: #1DA1F2;
-  color: #fff;
-  font-family: 'Raleway', sans-serif;
-}
+body { margin: 0 auto; background: #1DA1F2; color: #fff; font-family: 'Raleway', sans-serif; }
 
-main {
-  height: 100vh;
-}
+main { height: 100vh; }
 
-main header {
-  height: 33vh;
-}
+main header { height: 33vh; }
 
-main header h1 {
-  margin: 40px 0;
-}
+main header h1 { margin: 40px 0; }
 
-main .box {
-  height: 33vh;
-}
+main .box { height: 33vh; }
 
-main .bottom {
-  height: 33vh;
-}
+main .bottom { height: 33vh; }
 
-main .bottom button {
-  font-weight: bold;
-  width: 200px;
-  background: #1DA1F2;
-  border: 1px solid #fff;
-  border-radius: 3px;
-  padding: 10px;
-  margin: 10px;
-  color: #fff;
-  text-decoration: none;
-  transition: all .3s ease-in-out;
-}
+main .bottom button { font-weight: bold; width: 200px; background: #1DA1F2; border: 1px solid #fff; border-radius: 3px; padding: 10px; margin: 10px; color: #fff; text-decoration: none; transition: all .3s ease-in-out; }
 
-main .bottom button:hover {
-  background: #fff;
-  color: #1DA1F2;
-}
+main .bottom button:hover { background: #fff; color: #1DA1F2; }
 
-main .bottom button:hover a {
-  color: #1DA1F2;
-}
+main .bottom button:hover a { color: #1DA1F2; }
 
-main .bottom button a {
-  color: #fff;
-  text-decoration: none;
-}
-/*# sourceMappingURL=style.css.map */
+main .bottom button a { color: #fff; text-decoration: none; }
